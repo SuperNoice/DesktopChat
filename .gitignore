@@ -1,0 +1,7 @@
+.vs/*
+Chat Client/bin/*
+Chat Client/obj/*
+Chat Server/bin/*
+Chat Server/obj/*
+updater/bin/*
+updater/obj/*
